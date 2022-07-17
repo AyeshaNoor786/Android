@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id operand_one_edit_text
+id operand_two_edit_text
+id operation_add_btn
+id operation_div_btn
+id operation_mul_btn
+id operation_result_text_view
+id operation_sub_btn
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_operation_text
+string app_name
+string computationError
+string div_operation_text
+string mul_operation_text
+string sub_operation_text
+string type_operand_one_hint
+string type_operand_two_hint
+style Theme.SimpleCalc
